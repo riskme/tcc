@@ -22,3 +22,13 @@
 			![](img/repo1.png)
 
 		b. Melakukan cloning repo dari git
+		
+			![](img/repo2.png)
+			
+		c. Mengelola repo
+		
+			![](img/repo3.png)
+			
+			Menambahkan file README.md dengan perintah "vim README.md"
+			
+			![](img/vim.png)
