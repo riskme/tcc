@@ -19,16 +19,16 @@
 
 		a. Membuat repo dengan nama "tcc" dengan alamat repo di [https://github.com/riskme/tcc.git](https://github.com/riskme/tcc.git)
 
-			![](img/repo1.png)
+		![](img/repo1.png)
 
 		b. Melakukan cloning repo dari git
 		
-			![](img/repo2.png)
+		![](img/repo2.png)
 			
 		c. Mengelola repo
 		
-			![](img/repo3.png)
+		![](img/repo3.png)
 			
-			Menambahkan file README.md dengan perintah "vim README.md"
+		Menambahkan file README.md dengan perintah "vim README.md"
 			
-			![](img/vim.png)
+		![](img/vim.png)
