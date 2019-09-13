@@ -4,7 +4,7 @@ Git merupakan teknologi version control system yang dapat mencatat setiap peruba
 
 **1. Instalasi Git**
 
-Langkah-langkah instalasi Git, sudah pernah saya buat sebelumnya. Pembahasannya dapat di lihat [disini](https://github.com/riskme/tcclanjut/tree/master/minggu-01)
+Langkah-langkah instalasi Git, sudah pernah saya buat sebelumnya. Pembahasannya dapat di lihat [**disini**](https://github.com/riskme/tcclanjut/tree/master/minggu-01)
  
   ![](img/instalasi.png)
 
