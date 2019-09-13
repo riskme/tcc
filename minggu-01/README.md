@@ -5,14 +5,14 @@ Git merupakan teknologi version control system yang dapat mencatat setiap peruba
 **1. Instalasi Git**
 
 Langkah-langkah instalasi Git, sudah pernah saya buat sebelumnya. Pembahasannya dapat di lihat [disini](https://github.com/riskme/tcclanjut/tree/master/minggu-01)
-
-	![](img/instalasi.png)
+ 
+  ![](img/instalasi.png)
 
 **2. Konfigurasi Git**
 
 Sebelum menggunakan git, perlu dilakukan konfigurasi username dan email yang dilakukan melalui terminal (git bash). Username dan email ini disesuai dengan akun git yang digunakan. Username dan email digunakan untuk merekam author yang melakukan perubahan di saat git sudah digunakan.
 
-	![](img/konfigurasi.png)
+  ![](img/konfigurasi.png)
 
 **3. Mengelola Repo Sendiri**
 
@@ -30,21 +30,22 @@ Perubahan akan diterapkan pada repository jika sudah melakukan commit dengan per
 
 Untuk mengirimkannya ke repositori jarak-jauh, dilakukan dengan perintah | **git push origin master** | (master dapat diubah sesuai cabang yang diinginkan).
 
+---- -----
 
   a. Mengambil repo dengan nama "tcc" dengan alamat repo di [https://github.com/riskme/tcc.git](https://github.com/riskme/tcc.git)
 
-    ![](img/repo1.png)
+   ![](img/repo1.png)
 
   b. Melakukan cloning repo dari git
-		
-    ![](img/repo2.png)
+
+   ![](img/repo2.png)
 			
   c. Mengelola repo
 		
-    ![](img/repo3.png)
+   ![](img/repo3.png)
 			
   Menambahkan file README.md dengan perintah "vim README.md"
 			
-    ![](img/vim.png)
+   ![](img/vim.png)
 
 
