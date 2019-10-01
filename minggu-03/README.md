@@ -20,7 +20,7 @@ Dengan konsep SaaS, perusahaan tidak perlu menyiapkan infrastruktur sendiri untu
 
 6.	Pada sebagian software yang berbayar, pengguna hanya akan dikenakan biaya selama periode langganan saja.
 
-![](pengggunaan saas.png)
+![](pengggunaan.png)
 
 Pengguna saling menggunakan layanan SaaS secara bersama – sama atau on-demand di dalam internet.
 
@@ -40,11 +40,11 @@ Pengguna saling menggunakan layanan SaaS secara bersama – sama atau on-demand 
 
   SaaS memiliki tingkat fleksible yang tinggi dan memungkinkan pengguna memodifikasi aplikasi sesuai kebutuhan pengguna.
 
-![](implementasi saas.png)
+![](implementasi.png)
 
 Layanan SaaS memiliki tiga model yang masing – masing model tersebut disesuaikan dengan keinginan dan kebutuhan pengguna.
 
-![](model saas.png)
+![](model.png)
 
 1. Model 1 : Pengguna layanan SaaS memiliki beberapa aplikasi yang berbeda jenis tetapi hanya memiliki satu database yang di share atau digunakan bersama – sama untuk beragam aplikasi yang dibuat oleh pengguna. Pengguna layanan SaaS ini cukup melakukan modifikasi aplikasi, mengubah skala aplikasi melalui koneksi internet. 
 
@@ -59,6 +59,7 @@ SaaS model 2 ini umumnya ditawarkan oleh provider dalam bentuk aplikasi berbasis
 
 SaaS merupakan evolusi dari pengembangan software dimana aplikasi tersebut diletakkan di cloud atau internet. Aplikasi tersebut tersedia di internet atau cloud sehingga pengguna tidak perlu melakukan instalasi atau menjalankan aplikasi tersebut di masing – masing komputernya. Sebagai hasilnya pengguna terbebaskan dari urusan maintenance aplikasi. Oleh provider SaaS ditawarkan sebagai pay as you use service , artinya pembayaran atas software atau aplikasi termasuk license didalamnya tidak diperlukan, pembayaran hanya dilakukan ketika aplikasi digunakan dan biaya tersebut dihitung berdasarkan periode biasanya per bulan, per tahun.
 
+<hr>
 
 # Penerapan Software As A Service pada Google Docs.
 
