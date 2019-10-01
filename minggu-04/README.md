@@ -43,7 +43,7 @@ Aplikasi ini  membantu perusahaan untuk mengorganisir dan memelihara informasi s
 7. **Material Management**: Berisi fitur mengenai management produk di dalam perusahaan. Baik dari segi produk sampai penambahan dari segi pembelian (Purchase Order) dan pengurangan produk dari segi Penjualan (Sales Order dan Invoice).
 8. **Synchronization**: Fitur yang bertujuan untuk mensikronisasi antara Vtiger dengan aplikasi email semacam Microsoft Outlook dan Mozilla Thunderbird.
 
-
+![](img/dashboard.png)
 
 
 
