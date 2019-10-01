@@ -9,15 +9,10 @@ Dengan konsep SaaS, perusahaan tidak perlu menyiapkan infrastruktur sendiri untu
 ## Keunggulan layanan SaaS :
 
 1.	Pengguna tidak perlu mengeluarkan biaya untuk server maupun hardware dalam menjalankan aplikasi, karena telah didukung oleh cloud provider.
-
 2.	Aplikasi telah siap digunakan sehingga pengguna tidak perlu melakukan setup awal yang mungkin akan dikenakan biaya.
-
 3.	Update secara otomatis, dan memungkinkan kompatibilitas antar perangkat.
-
 4.	Dapat diakses dari manapun tanpa terbatas waktu.
-
 5.	Aplikasi dapat disesuaikan, kustomisasi dapat disesuaikan dengan kebutuhan.
-
 6.	Pada sebagian software yang berbayar, pengguna hanya akan dikenakan biaya selama periode langganan saja.
 
 ![](pengggunaan.png)
@@ -29,26 +24,20 @@ Pengguna saling menggunakan layanan SaaS secara bersama – sama atau on-demand 
 ## Faktor keberhasilan dalam implementasi dan pengembangan SaaS, yaitu :
 
 * Efisiensi sumber daya komputer 
-
   SaaS memiliki kemampuan memaksimalkan penggunaan sumber daya komputer seperti pemakaian memory dan bandwidth secara bersamaan, penggunaan database berskala besar untuk berbagai pengguna di berbagai lokasi yang berbeda dalam waktu bersamaan.
-
 * Optimasi data dan multi tenant 
-
   SaaS memiliki kemampuan untuk memilah data – data dan menseleksi data – data berdasarkan kepemilikan pengguna secara bersamaan dalam satu aplikasi (multi-tenant ).
-
 * Fleksibel aplikasi 
-
   SaaS memiliki tingkat fleksible yang tinggi dan memungkinkan pengguna memodifikasi aplikasi sesuai kebutuhan pengguna.
 
 ![](implementasi.png)
+
 
 Layanan SaaS memiliki tiga model yang masing – masing model tersebut disesuaikan dengan keinginan dan kebutuhan pengguna.
 
 ![](model.png)
 
-1. Model 1 : Pengguna layanan SaaS memiliki beberapa aplikasi yang berbeda jenis tetapi hanya memiliki satu database yang di share atau digunakan bersama – sama untuk beragam aplikasi yang dibuat oleh pengguna. Pengguna layanan SaaS ini cukup melakukan modifikasi aplikasi, mengubah skala aplikasi melalui koneksi internet. 
-
-Layanan SaaS model 1 ini pada umumnya ditawarkan oleh provider dalam bentuk virtualisasi server (VPS) dan bersifat private.
+1. Model 1 : Pengguna layanan SaaS memiliki beberapa aplikasi yang berbeda jenis tetapi hanya memiliki satu database yang di share atau digunakan bersama – sama untuk beragam aplikasi yang dibuat oleh pengguna. Pengguna layanan SaaS ini cukup melakukan modifikasi aplikasi, mengubah skala aplikasi melalui koneksi internet. Layanan SaaS model 1 ini pada umumnya ditawarkan oleh provider dalam bentuk virtualisasi server (VPS) dan bersifat private.
 
 2. Model 2 : Pengguna layanan SaaS ini memiliki aplikasi yang terpisah dan berbeda – beda tetapi mengakses database yang sama atau satu database digunakan secara bersama – sama oleh beragam aplikasi dan beragam pengguna.
 SaaS model 2 ini umumnya ditawarkan oleh provider dalam bentuk aplikasi berbasis web atau web services, seperti email.
@@ -70,49 +59,34 @@ Google Docs merupakan produk Google yang dapat digunakan untuk pengolah kata (wo
 Keunggulan Google Docs :
 
 1.	Resiko kehilangan data bisa dihindari.
-
 2.	Dukungan dan support yang lengkap.
-
 3.	Memiliki berbagai fitur seperti memeriksa ejaan dsb.
-
 4.	Bisa diakses dimana saja dan kapan saja.
-
 5.	Bisa digunakan di berbagai sistem operasi.
-
 6.	User bisa mengatur akses terhadap file.
 
 
 Kelemahan Google Docs :
 
 1.	Membutuhkan koneksi internet agar bisa digunakan.
-
 2.	Hanya bisa diakses secara online.
 
 
 Fasilitas Google Doc
 
 * Google Dokumen (Word Processor)
-
  - Membuat dan upload dokumen Word, OpenOffice, RTF, HTML, atau teks.
-
  - Sharing dengan orang lain (melalui alamat  e-mail) untuk mengedit atau melihat dokumen dan spreadsheet.
-
  - Mengedit dokumen online dengan siapa pun yang kita pilih.
-
  - Melihat riwayat revisi dokumen dan spreadsheet 
-
  - Mendownload dokumen ke desktop sebagai Word, OpenOffice, RTF, PDF, HTML atauzip.
-
  - Setiap dokumen dapat mencapai sebesar 500K, ditambah 2MB per gambar yangdimasukkan.
 
 * Google Spreadsheet 
 
  - Spreadsheet sangat skalabel, dengan baris dan kolom praktis tak berujung yang dapat Anda tambahkan pada data.
-
  - Spreadsheets bersifat fleksibel, dengan kemampuan untuk memasang semua data data pada data bagaian di dalam sel.
-
  - Spreadsheets menerima rumus dan fungsi sehingga Anda dapat mengambil data mentah dan membuat perhitungan.
-
  - Kompatible dengan excell.
 
   
