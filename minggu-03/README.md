@@ -76,20 +76,20 @@ Kelemahan Google Docs :
 
 Fasilitas Google Doc
 
-* Google Dokumen (Word Processor)
- - Membuat dan upload dokumen Word, OpenOffice, RTF, HTML, atau teks.
- - Sharing dengan orang lain (melalui alamat  e-mail) untuk mengedit atau melihat dokumen dan spreadsheet.
- - Mengedit dokumen online dengan siapa pun yang kita pilih.
- - Melihat riwayat revisi dokumen dan spreadsheet 
- - Mendownload dokumen ke desktop sebagai Word, OpenOffice, RTF, PDF, HTML atauzip.
- - Setiap dokumen dapat mencapai sebesar 500K, ditambah 2MB per gambar yangdimasukkan.
+1. **Google Dokumen (Word Processor)**
+  - Membuat dan upload dokumen Word, OpenOffice, RTF, HTML, atau teks.
+  - Sharing dengan orang lain (melalui alamat  e-mail) untuk mengedit atau melihat dokumen dan spreadsheet.
+  - Mengedit dokumen online dengan siapa pun yang kita pilih.
+  - Melihat riwayat revisi dokumen dan spreadsheet 
+  - Mendownload dokumen ke desktop sebagai Word, OpenOffice, RTF, PDF, HTML atauzip.
+  - Setiap dokumen dapat mencapai sebesar 500K, ditambah 2MB per gambar yangdimasukkan.
 
-* Google Spreadsheet 
+2. **Google Spreadsheet** 
 
- - Spreadsheet sangat skalabel, dengan baris dan kolom praktis tak berujung yang dapat Anda tambahkan pada data.
- - Spreadsheets bersifat fleksibel, dengan kemampuan untuk memasang semua data data pada data bagaian di dalam sel.
- - Spreadsheets menerima rumus dan fungsi sehingga Anda dapat mengambil data mentah dan membuat perhitungan.
- - Kompatible dengan excell.
+  - Spreadsheet sangat skalabel, dengan baris dan kolom praktis tak berujung yang dapat Anda tambahkan pada data.
+  - Spreadsheets bersifat fleksibel, dengan kemampuan untuk memasang semua data data pada data bagaian di dalam sel.
+  - Spreadsheets menerima rumus dan fungsi sehingga Anda dapat mengambil data mentah dan membuat perhitungan.
+  - Kompatible dengan excell.
 
   
 
