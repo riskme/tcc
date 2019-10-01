@@ -15,7 +15,7 @@ Dengan konsep SaaS, perusahaan tidak perlu menyiapkan infrastruktur sendiri untu
 5.	Aplikasi dapat disesuaikan, kustomisasi dapat disesuaikan dengan kebutuhan.
 6.	Pada sebagian software yang berbayar, pengguna hanya akan dikenakan biaya selama periode langganan saja.
 
-![](pengggunaan.png)
+![](penggunaaan.png)
 
 Pengguna saling menggunakan layanan SaaS secara bersama – sama atau on-demand di dalam internet.
 
@@ -33,16 +33,18 @@ Pengguna saling menggunakan layanan SaaS secara bersama – sama atau on-demand 
 ![](implementasi.png)
 
 
-Layanan SaaS memiliki tiga model yang masing – masing model tersebut disesuaikan dengan keinginan dan kebutuhan pengguna.
+Layanan SaaS memiliki tiga model yang masing – masing model tersebut disesuaikan dengan keinginan dan kebutuhan pengguna. Model tersebut digambarkan sebagai berikut :
 
 ![](model.png)
 
-1. Model 1 : Pengguna layanan SaaS memiliki beberapa aplikasi yang berbeda jenis tetapi hanya memiliki satu database yang di share atau digunakan bersama – sama untuk beragam aplikasi yang dibuat oleh pengguna. Pengguna layanan SaaS ini cukup melakukan modifikasi aplikasi, mengubah skala aplikasi melalui koneksi internet. Layanan SaaS model 1 ini pada umumnya ditawarkan oleh provider dalam bentuk virtualisasi server (VPS) dan bersifat private.
+1. **Model 1** 
+  Pengguna layanan SaaS memiliki beberapa aplikasi yang berbeda jenis tetapi hanya memiliki satu database yang di share atau digunakan bersama – sama untuk beragam aplikasi yang dibuat oleh pengguna. Pengguna layanan SaaS ini cukup melakukan modifikasi aplikasi, mengubah skala aplikasi melalui koneksi internet. Layanan SaaS model 1 ini pada umumnya ditawarkan oleh provider dalam bentuk virtualisasi server (VPS) dan bersifat private.
 
-2. Model 2 : Pengguna layanan SaaS ini memiliki aplikasi yang terpisah dan berbeda – beda tetapi mengakses database yang sama atau satu database digunakan secara bersama – sama oleh beragam aplikasi dan beragam pengguna.
-SaaS model 2 ini umumnya ditawarkan oleh provider dalam bentuk aplikasi berbasis web atau web services, seperti email.
+2. **Model 2** 
+  Pengguna layanan SaaS ini memiliki aplikasi yang terpisah dan berbeda – beda tetapi mengakses database yang sama atau satu database digunakan secara bersama – sama oleh beragam aplikasi dan beragam pengguna. SaaS model 2 ini umumnya ditawarkan oleh provider dalam bentuk aplikasi berbasis web atau web services, seperti email.
 
-3. Model 3 : Pengguna layanan SaaS ini memiliki masing – masing aplikasi yang berbeda termasuk database yang berbeda dan bersifat private. Satu pengguna memiliki beragam aplikasi tetapi memiliki satu database private yang digunakan untuk aplikasi pengguna itu sendiri. Masing – masing pengguna terpisah secara mandiri baik dari aplikasi maupun secara database. SaaS model 3 ini merupakan model gabungan dari model 1 dan model 2 yang memang dibangun dan dibuat oleh provider SaaS untuk memenuhi kebutuhan pengguna. Salah satu contoh SaaS model 3 adalah aplikasi office suite berbasis web. 
+3. **Model 3** 
+  Pengguna layanan SaaS ini memiliki masing – masing aplikasi yang berbeda termasuk database yang berbeda dan bersifat private. Satu pengguna memiliki beragam aplikasi tetapi memiliki satu database private yang digunakan untuk aplikasi pengguna itu sendiri. Masing – masing pengguna terpisah secara mandiri baik dari aplikasi maupun secara database. SaaS model 3 ini merupakan model gabungan dari model 1 dan model 2 yang memang dibangun dan dibuat oleh provider SaaS untuk memenuhi kebutuhan pengguna. Salah satu contoh SaaS model 3 adalah aplikasi office suite berbasis web. 
 
 ## Kesimpulan dari SaaS( Software as a Service ) 
 
