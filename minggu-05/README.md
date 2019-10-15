@@ -1,8 +1,5 @@
 # CockroachDB
 
-
-## Instalasi CockroachDB
-
-1. Download cockroacDB versi 19.1.5 dari web [ini](https://www.cockroachlabs.com/docs/stable/install-cockroachdb-windows.html)
-
-  ![](img/1.png)
+1. [Instalasi CockroachDB untuk Windows](Instalasi-CockroachDB/Instalasi_CockroachDB.md)
+2. [Membuat Database di CockroachDB](Membuat-Database-CockroachDB/README.md)
+3. [Menampilkan Database]()
