@@ -10,14 +10,26 @@ NodeJS identik dengan CLI, maka sistem deploy Zeit Now pun dapat dengan mudah di
 ## Intalasi Zeit
 
 1. Instal NodeJs
+ ![](img/zeit/instal_node.png)
 2. Instal Zeit Now CLI melalui Nodejs command prompt
- ![](img/zeit/instal_cli1.png)
+ ![](img/zeit/instal_now1.png)
 
 3. Login ke dalam Zeit Now
- ![](img/zeit/instal_cli2.png)
+ ![](img/zeit/instal_now2.png)
 
-3. Membuat project dengan my-app my-project
- ![](img/zeit/instal_cli3.png)
+3. Membuat static web dengan nama index.html dan menampilkan nya di zeit now.
+
+    File index.html berisi kode untuk menampilkan nama dan nim saja. File ini disimpan didalam folder proyek yang kita buat. Kemudian buka CLI di direktori proyek yang sedang di kerjakan. 
+
+ ![](img/zeit/static_web1.png)
+
+    Perintah now, akan menampilkan file html kita di zeit. File kita dapat di akses melalui alamat https://now-frv1lubdl.now.sh (alamat ini akan terus berubah). Sedangkan ini alamat project now : https://now.rishmey.now.sh
+
+ ![](img/zeit/static_web2.png) | ![](img/zeit/static_web3.png)
+
+
+
+
 
 ## https://www.pythonanywhere.com
 
