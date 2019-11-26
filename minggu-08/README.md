@@ -6,6 +6,7 @@
 Lakukan pemasangan python bila sistem belum memiliki package Python. Untuk mendapatkan berkasnya, download [disitus Python](https://www.python.org/downloads/).
 
 Untuk memastikan Python sudah terpasang dengan baik, buka sebuah jendela terminal dan ketikkan **python3**, atau jika tidak berhasil, coba hanya mengetikkan **python**.
+
 ![](img/instal_python.png)
 
 Untuk keluar dari interactive prompt python ketikkan exit() dan tekan Enter atau dengan shortcut Ctrl-Z diikuti tombol Enter.
@@ -22,6 +23,7 @@ Untuk keluar dari interactive prompt python ketikkan exit() dan tekan Enter atau
  ![](img/run_app.png)
 
 4. Akses **http://127.0.0.1:5000/** melalui browser untuk melihat tampilan
+ 
  ![](img/web_app.png)
  
  
