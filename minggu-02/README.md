@@ -1,64 +1,35 @@
-# Git Kolaborasi - Fork
+# Mengelola Repo Sendiri
 
-Mem-"fork" berarti menyalin sebuah project, mengubah namanya, serta membuat sebuah project dan komunitas dengan salinannya.
+Repositori (repository) dalam bahasa indonesia artinya gudang. Repositori merupakan istilah yang digunakan untuk direktori proyek yang menggunakan Git. Repository adalah asset yang paling kuat dari semua project versioning. Untuk mengubah direktori menjadi repository GIT, menggunakan perintah *git init <directory>*. Folder bernama .git akan muncul di direktori bila perintah tersebut telah dijalankan. Bila telah memiliki direktori sebelumnya dan ingin mengambilnya, dapat digunakan dengan perintah *git clone*.
 
-Langkah-langkah :
+**Membuat sebuah repo** dapat dilakukan dengan perintah | **git init** | untuk inisasi Git pada folder lokal project yang sudah ada.
 
-1. Klik tombol "fork" pada repo dimana kita akan melakukan kontribusi. Repo yang digunakan adalah [project milik Hasan](https://github.com/hasan354313/175410211.git) .
+**Mengambil sebuah repo**, dengan menggunakan perintah | **git clone /path/to/local/repository** | untuk mengambil repository yang sudah ada pada akun Git ke lokal komputer.
 
-![](img/1.png)
+**Mengatur sebuah repo**, dilakukan dengan menggunakan perintah | **git status** | untuk melihat status git yang sudah terpasang pada poject.
 
-![](img/2.png)
+Menambahkan perubahan pada proyek, dilakukan dengan perintah | **git add <filename>** | atau | **git add .** | ( *tanda .* artinya menambahkan semua file maupun folder pada project).
 
-Maka repositori kita akan ada sebuah project baru, yaitu mirror/copy dari fork project tersebut.
+Perubahan akan diterapkan pada repository jika sudah melakukan commit dengan perintah | **git commit –m “catatan perubahan yang dilakukan”** |
 
-2. Melakukan cloning proect fork tersebut ke local.
+Untuk mengirimkannya ke repositori jarak-jauh, dilakukan dengan perintah | **git push origin master** | (master dapat diubah sesuai cabang yang diinginkan).
 
-![](img/3.png)
+---- -----
 
-3. Mendaftarkan repository asal untuk melakukan sinkronisasi repo local dengan repo master (milik Hasan) agar tidak terjadi konflik dengan kontributor lainnya.
+  a. Mengambil repo dengan nama "tcc" dengan alamat repo di [https://github.com/riskme/tcc.git](https://github.com/riskme/tcc.git)
 
-![](img/4.png)
+   ![](img/repo1.png)
 
-  - origin: menunjuk ke repo local di akun kita hasil dari fork.
+  b. Melakukan cloning repo dari git
 
-  - upstream: menunjuk ke repo asli/master di account asal.
+   ![](img/repo2.png)
+			
+  c. Mengelola repo
+		
+   ![](img/repo3.png)
+			
+  Menambahkan file README.md dengan perintah "vim README.md"
+			
+   ![](img/vim.png)
 
-  - *git remote -v* digunakan untuk melihat remote yang terdaftar.
-
-![](img/5.png)
-
-  Perintah *git fetch* hanya akan mengambil revisi (commit) saja dan tidak langsung melakukan penggabungan (merge) terhadap repository lokal.
-
-4. Menampilan riwayat commit dari repo asal menggunakan perintah ls -la
-
-![](img/6.png)
-
-5. Membuat branch baru agar tidak merusak history branch utama. Branch baru diberi nama kontributor. Perintah *git branch* digunakan untuk melihat data branch yang ada.
-
-![](img/7.png)
-
-6. Melakukan perubahan pada proyek, dengan menambahkan file text dengan editor vim. Untuk melihat isi dari file text tersebut, di gunakan perintah *cat*
-
-![](img/8.png)
-
-7. Lakukan penyimpanan perubahan ke dalam branch kontributor.
-
-![](img/9.png)
-
-![](img/10.png)
-
-![](img/11.png)
-
-![](img/12.png)
-
-  Push perubahan kedalam branch kontributor. Untuk itu perlu keluar terlebih dahulu dari branch kontributor dengan perintah *git checkout master*.
-
-8. Melakukan pull-request
-
-  Pull request artinya notifikasi ke administrator/maintainer project asal untuk melihat perubahan yang sudah dilakukan. Bila perubahannya dinilai bermanfaat dan bisa dipakai (tidak error, kualitas coding rapih, dan berbagai kriteria lain), maka maintainer akan mengambil (pull) perubahan tersebut dari repo kita. 
-
-![](img/13.png)
-
-![](img/14.png)
 
